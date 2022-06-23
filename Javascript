@@ -1,2 +1,23 @@
-console.log("Parthiv")
-console.log("Will")
+//Welcome to JavaScript Notes
+//console.log() will log your text,varible,fucntion,or string to the console:
+console.log("Parthiv") //string
+console.log(7) //number
+/*
++ = addition
+- = subtraction 
+* = multiplication
+/ = division
+% = remainder after divsion
+:*/
+console.log(2+3)
+console.log(3-2)
+console.log(3*2)
+console.log(10/2)
+console.log(10%3)
+//String Concantacetion 
+console.log('Cookie'+'God')
+console.log('This is'+ x)
+//or
+let x = 'Parthiv and Will'
+console.log(`This is ${variable}`)
+
