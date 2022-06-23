@@ -1,7 +1,10 @@
 //Welcome to JavaScript Notes
+//Intro:
 //console.log() will log your text,varible,fucntion,or string to the console:
 console.log("Parthiv") //string
 console.log(7) //number
+
+//Math: 
 /*
 + = addition
 - = subtraction 
@@ -14,10 +17,19 @@ console.log(3-2)
 console.log(3*2)
 console.log(10/2)
 console.log(10%3)
+//Built in Operators(commonly used)
+console.log(x.length)
+console.log(typeof x)
+console.log(Math.floor(Math.random()*10))
+//makes whole number between 0-10
+
 //String Concantacetion 
 console.log('Cookie'+'God')
 console.log('This is'+ x)
 //or
 let x = 'Parthiv and Will'
 console.log(`This is ${variable}`)
+
+//Variables:
+//You cna declare a variable using "const" and "let"
 
