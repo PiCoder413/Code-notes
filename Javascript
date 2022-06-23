@@ -3,6 +3,7 @@
 //console.log() will log your text,varible,fucntion,or string to the console:
 console.log("Parthiv") //string
 console.log(7) //number
+console.log('true&false') //booleans
 
 //Math: 
 /*
@@ -31,5 +32,24 @@ let x = 'Parthiv and Will'
 console.log(`This is ${variable}`)
 
 //Variables:
-//You cna declare a variable using "const" and "let"
+//You can declare a variable using "const" and "let"
+const weather  = "crazy!"
+//This variable cannot be reassaigned 
+let arizona = "hot"
+//This variable can be changed
+
+//Quickeroony Varible reassignemnt:
+//Instead of 
+ let num = 7
+ num = num + 3
+ //Do
+ num += 3
+ //This works for every other operator
+ //Increment and Decrement 
+ //Instead of
+  let num_two = 2
+  num_two = num_two + 1
+  //Do
+  num_two = num_two++
+  //Use "--" for subtraction
 
